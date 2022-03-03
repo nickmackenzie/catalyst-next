@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8188000000005001",
+      "name": "TestReact",
+      "domain": {
+        "id": "10038542202",
+        "name": "testreact-757410314.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "757410314",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "auth",
+		"stack": "node14",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
